@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:polkadex_mobile_test/input_widget.dart';
+import 'package:polkadex_mobile_test/presentation/widgets/input_widget.dart';
 
 
 class TestScreen extends StatefulWidget {
@@ -140,7 +140,8 @@ class _TestScreenState extends State<TestScreen>
                                   controller:
                                   _passwordRepeatController,
                                   obscureText: true,
-                                  onChanged: (password) {},
+                                  onChanged: (password) {
+                                  },
                                 ),
                               ),
                             ],
