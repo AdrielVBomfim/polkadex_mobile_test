@@ -1,6 +1,6 @@
 # polkadex_mobile_test
 
-A Flutter project created for test purposes based on the wallet settings screen of the polkadex mobile app.
+A Flutter project based on the wallet settings screen of the polkadex mobile app. This project is meant to be used as a task in which the developer is free to fix, refactor or add anything they think is missing to the screen (widgets, logic, state management, structure, etc...).
 
 ![Captura de tela 2021-12-17 122536](https://user-images.githubusercontent.com/38893955/148854854-52d6ee8c-c970-4b8c-a61e-30f64235620b.png)
 
